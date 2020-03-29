@@ -1,0 +1,6 @@
+C:\Users\Михаил\Desktop\C#\Beginner\Task9\bin\Debug\Task9.exe.config
+C:\Users\Михаил\Desktop\C#\Beginner\Task9\bin\Debug\Task9.exe
+C:\Users\Михаил\Desktop\C#\Beginner\Task9\bin\Debug\Task9.pdb
+C:\Users\Михаил\Desktop\C#\Beginner\Task9\obj\Debug\Task9.csproj.CoreCompileInputs.cache
+C:\Users\Михаил\Desktop\C#\Beginner\Task9\obj\Debug\Task9.exe
+C:\Users\Михаил\Desktop\C#\Beginner\Task9\obj\Debug\Task9.pdb
