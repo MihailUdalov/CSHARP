@@ -1,0 +1,7 @@
+C:\Users\Михаил\Desktop\CSHARPp\Task6\bin\Debug\Task6.exe.config
+C:\Users\Михаил\Desktop\CSHARPp\Task6\bin\Debug\Task6.exe
+C:\Users\Михаил\Desktop\CSHARPp\Task6\bin\Debug\Task6.pdb
+C:\Users\Михаил\Desktop\CSHARPp\Task6\obj\Debug\Task6.csprojAssemblyReference.cache
+C:\Users\Михаил\Desktop\CSHARPp\Task6\obj\Debug\Task6.csproj.CoreCompileInputs.cache
+C:\Users\Михаил\Desktop\CSHARPp\Task6\obj\Debug\Task6.exe
+C:\Users\Михаил\Desktop\CSHARPp\Task6\obj\Debug\Task6.pdb
